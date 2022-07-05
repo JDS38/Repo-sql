@@ -1,0 +1,9 @@
+
+SQL*Loader: Release 21.0.0.0.0 - Production on Mar. Juil. 5 10:27:43 2022
+Version 21.3.0.0.0
+
+Copyright (c) 1982, 2021, Oracle and/or its affiliates.  All rights reserved.
+
+SQL*Loader-500 : Ouverture du fichier (C:\load\typedechetparisparis.ctl) impossible
+SQL*Loader-553 : fichier introuvable
+SQL*Loader-509 : Erreur système : Le fichier spécifié est introuvable.

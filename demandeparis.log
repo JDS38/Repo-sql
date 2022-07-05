@@ -1,0 +1,183 @@
+
+SQL*Loader: Release 21.0.0.0.0 - Production on Mar. Juil. 5 10:15:54 2022
+Version 21.3.0.0.0
+
+Copyright (c) 1982, 2021, Oracle and/or its affiliates.  All rights reserved.
+
+Fichier de contrôle :   C:\load\demandeparis.ctl
+Fichier de données :      c:\load\demandeparis.txt
+  Fichier des enregistrements refusés :     c:\load\demandeparis.bad
+  Fichier de rebut : c:\load\demandeparis.dsc
+ (Allouer tous les rebuts)
+
+Nombre à charger : ALL
+Nombre à ignorer : 0
+Erreurs autorisés : 50
+Tableau de variables :     250 lignes, maximum de 1048576 octets
+Continuation :    aucune spécification
+Chemin utilisé:      Classique
+
+Table DEMANDE, chargé à partir de chaque enregistrement physique.
+Option d'insertion en vigueur pour cette table : INSERT
+option TRAILING NULLCOLS effective
+
+   Nom de colonne                  Position   Long  Type de données encadr.
+------------------------------ ---------- ----- ---- ---- ---------------------
+NODEMANDE                           FIRST     *   ;       CHARACTER            
+    chaîne SQL pour la colonne : "seq_demande.nextval"
+DATEDEMANDE                          NEXT     *   ;       CHARACTER            
+DATEENLEVEMENT                       NEXT     *   ;       CHARACTER            
+WEB_O_N                              NEXT     *   ;       CHARACTER            
+SIRET                                NEXT     *   ;       CHARACTER            
+NOTOURNEE                            NEXT     *   ;       CHARACTER            
+
+Enregistrement 1 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 2 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 3 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 4 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 5 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 6 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 7 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 8 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 9 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 10 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 11 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 12 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 13 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 14 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 15 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 16 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 17 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 18 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 19 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 20 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 21 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 22 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 23 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 24 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 25 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 26 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 27 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 28 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 29 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 30 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 31 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 32 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 33 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 34 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 35 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 36 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 37 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 38 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 39 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 40 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 41 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 42 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+Enregistrement 43 : Rejeté - Erreur sur table DEMANDE, colonne DATEENLEVEMENT.
+ORA-01858: Caractère non numérique trouvé à la place d'un caractère numérique
+
+
+Table DEMANDE :
+  Chargement de 0 Lignes effectué.
+  43 Lignes : chargement impossible dû à des erreurs de données.
+  0 Lignes : chargement impossible car échec de toutes les clauses WHEN.
+  0 Lignes : chargement impossible car tous les champs étaient non renseignés.
+
+
+Espace affecté au tableau de variables :                 387000 octets(250 lignes)
+Octets de tampon de lecture : 1048576
+
+Nombre total d'enregistrements logiques ignorés :          0
+Nombre total d'enregistrements logiques lus :            43
+Nombre total d'enregistrements logiques rejetés :        43
+Nombre total d'enregistrements logiques mis au rebut :        0
+
+Le début de l'exécution a été effectué sur Mar. Juil. 05 10:15:54 2022
+La fin de l'exécution a été effectuée sur Mar. Juil. 05 10:15:54 2022
+
+Temps écoulé (ELAPSED) :     00:00:00.10
+Temps processeur (CPU) :    00:00:00.06
